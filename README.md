@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Laxman Suryawanshi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-suryawanshi&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-suryawanshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan-suryawanshi" alt="rohan-suryawanshi" /></a> </p>
+
 
 - 🔭 I’m currently working on [Hospital Management](https://github.com/Rohan-Suryawanshi/HospitalManagement)
 
